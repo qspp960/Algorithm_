@@ -1,7 +1,3 @@
-from collections import deque
+a = (1,)
 
-dq = [1,2,3,4,5,6]
-x = 4
-dq.pop(x)
-
-print(dq)
+print(a[0])
